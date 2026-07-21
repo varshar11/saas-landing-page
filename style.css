@@ -123,12 +123,18 @@ a {
   width: 100%;
 }
 
+
 .chart-title {
   font-size: 13px;
   color: #a0a0a0;
   margin-bottom: 12px;
 }
 
+.chart-highlight{
+  text-decoration: underline;
+    text-decoration-color: #f4d078;
+    text-underline-offset: 3px;
+}
 .donut-chart {
   width: 90px;
   height: 90px;
